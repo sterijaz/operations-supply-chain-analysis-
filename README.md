@@ -405,6 +405,9 @@ operations-supply-chain-analysis-/
 ├── dax/
 │   └── measures.md
 │
+├── reports/
+│   └── final-analysis-report.md
+│
 └── screenshots/
     ├── overall-dashboard.png
     ├── monthly-trend.png
@@ -413,6 +416,9 @@ operations-supply-chain-analysis-/
     └── location-performance.png
 ```
 
+### Final Analysis Report
+
+[Read the Final Project Analysis Report](reports/final-analysis-report.md)
 
 ## 17. Contributors
 
