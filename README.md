@@ -311,6 +311,14 @@ The Power BI dashboard uses the following visualisations:
 ### Location Performance
 ![Location Performance](screenshots/location-performance.png)
 
+### Download the Interactive Power BI Dashboard
+
+The complete interactive Power BI report is available for download.
+
+**[Download the Power BI Dashboard (.pbix)](dashboard/operations-supply-chain-dashboard.pbix)**
+
+*To explore the report interactively, download the file and open it using Microsoft Power BI Desktop.*
+
 ## 12. Business Insights
 
 The analysis generated the following business insights:
@@ -387,9 +395,12 @@ Future development of the project could include:
 The proposed GitHub repository structure is:
 
 ```text
-operations-supply-chain-analysis/
+operations-supply-chain-analysis-/
 │
 ├── README.md
+│
+├── dashboard/
+│   └── operations-supply-chain-dashboard.pbix
 │
 └── screenshots/
     ├── overall-dashboard.png
@@ -399,7 +410,6 @@ operations-supply-chain-analysis/
     └── location-performance.png
 ```
 
-*This is a suggested structure. Update filenames to match the actual files uploaded to GitHub. Do not publish confidential or restricted source data.*
 
 ## 17. Contributors
 
